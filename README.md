@@ -44,7 +44,7 @@ You are recommended to use **Node.js** along with [**Express**](https://expressj
 Implement a small frontend application to consume the API you developed above.
 
 The frontend should be able to show a list of names of the books available in the database. Upon clicking the name of a book on the list, the user should be navigated to a more detailed view of the selected book, where they are presented with the ISBN and the author details. You should also implement two forms where the user is able to create/update authors and books (using the POST and PUT endpoints)
-You are recommended to use [**React**](https://reactjs.org/) to create the frontend, but you are free to use a different Javascript framework.
+You are recommended to use [**Angular**](https://angular.io/) to create the frontend, but you are free to use a different Javascript framework.
 
 _Optional_: You can go a step further by implementing a search or filter
 
